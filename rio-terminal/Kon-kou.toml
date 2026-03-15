@@ -1,0 +1,66 @@
+[colors]
+# ------------------------------------------------------------
+# Theme Name: （紺航）Kon-kou 
+# Theme concept:
+# A deep navy theme evoking a boat’s wake across the night sea.
+# ------------------------------------------------------------
+
+# Regular colors
+background = '#0B1937'
+foreground = '#B8C9E3'
+
+black = '#324668'
+red = '#B46262'
+green = '#5C9E74'
+yellow = '#C2A765'
+blue = '#5278AE'
+magenta = '#916FB5'
+cyan = '#4E9C9C'
+white = '#A8B8D2'
+
+# Cursor
+cursor = '#D6E1F2'
+vi-cursor = '#7A97C8'
+
+# Navigation
+tabs = '#16284A'
+tabs-foreground = '#B8C8E2'
+tabs-active = '#3F5782'
+tabs-active-highlight = '#7AA0D8'
+tabs-active-foreground = '#EEF4FD'
+bar = '#1E335A'
+split = '#3E5478'
+
+# Search
+search-match-background = '#405A86'
+search-match-foreground = '#EAF1FB'
+search-focused-match-background = '#E0C989'
+search-focused-match-foreground = '#0B1937'
+
+# Selection
+selection-background = '#4A6591'
+selection-foreground = '#EEF4FD'
+
+# Dim colors
+dim-foreground = '#93A6C3'
+
+dim-black = '#263852'
+dim-red = '#995555'
+dim-green = '#4F8964'
+dim-yellow = '#A58F57'
+dim-blue = '#466897'
+dim-magenta = '#7C5F9A'
+dim-cyan = '#458B8B'
+dim-white = '#8D9DB6'
+
+# Light colors
+light-foreground = '#E6F0FF'
+
+light-black = '#6980A6'
+light-red = '#CA7B7B'
+light-green = '#74B88E'
+light-yellow = '#C6AD71'
+light-blue = '#678CBF'
+light-magenta = '#A682C6'
+light-cyan = '#64AFAF'
+light-white = '#D3DEF0'
