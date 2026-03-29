@@ -11,6 +11,9 @@ A deep navy theme evoking a boat’s wake across the night sea.
 
 The macOS Terminal version compensates for Terminal’s color rendering to match the Rio version as closely as possible.
 
+> Note:  
+> Screenshots were taken during development, and some labels may differ slightly from the final naming ("Kon-kou").
+
 ### Rio Terminal
 
 ![Rio Terminal preview](images/preview-rio.png)
